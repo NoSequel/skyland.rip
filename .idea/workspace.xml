@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SLK:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb15624a-a96c-4983-9e0c-ee97211692fa" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1OiMoD2Wv6yPy0eDYjy2qgvHnM5" />
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="slk" />
+    <property name="LombokPluginEnabledInProject" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564453955034" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="rip.skyland.soup.util" />
+      <recent name="gg.nv6.soup.util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\SLK\src\main\resources\schematics" />
+      <recent name="C:\Projects\SLK\src\main\java\rip\skyland" />
+      <recent name="C:\Projects\SLK\src\main\java\rip\skyland\soup\util" />
+      <recent name="C:\Projects\SLK\src\main\java\gg\nv6\soup" />
+      <recent name="C:\Projects\SLK\src\main\java\gg\nv6\soup\practice\arena\util" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb15624a-a96c-4983-9e0c-ee97211692fa" name="Default Changelist" comment="" />
+      <created>1560085390509</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560085390509</updated>
+      <workItem from="1560085397687" duration="13683000" />
+      <workItem from="1560109373103" duration="45048000" />
+      <workItem from="1560267939058" duration="4258000" />
+      <workItem from="1560352815668" duration="1330000" />
+      <workItem from="1560370586881" duration="3730000" />
+      <workItem from="1560701835481" duration="697000" />
+      <workItem from="1560716866522" duration="8000" />
+      <workItem from="1561038593817" duration="1295000" />
+      <workItem from="1561239562466" duration="3711000" />
+      <workItem from="1561296705816" duration="12572000" />
+      <workItem from="1561408080806" duration="871000" />
+      <workItem from="1561495105628" duration="2526000" />
+      <workItem from="1563484186601" duration="10425000" />
+      <workItem from="1563567531787" duration="1213000" />
+      <workItem from="1563577997367" duration="4490000" />
+      <workItem from="1563636194456" duration="7589000" />
+      <workItem from="1563843103709" duration="33537000" />
+      <workItem from="1563969724694" duration="442000" />
+      <workItem from="1563970331027" duration="29839000" />
+      <workItem from="1564010097786" duration="41784000" />
+      <workItem from="1564179682512" duration="44412000" />
+      <workItem from="1564332400897" duration="37789000" />
+      <workItem from="1564448255209" duration="4163000" />
+      <workItem from="1564456140053" duration="3048000" />
+      <workItem from="1564494461678" duration="34032000" />
+      <workItem from="1564632688212" duration="8387000" />
+      <workItem from="1564780231344" duration="744000" />
+      <workItem from="1564781772092" duration="96000" />
+      <workItem from="1564781874142" duration="58000" />
+      <workItem from="1564786372050" duration="14000" />
+      <workItem from="1564787284886" duration="8000" />
+      <workItem from="1564966913127" duration="614000" />
+      <workItem from="1565030235826" duration="14000" />
+      <workItem from="1565126999532" duration="736000" />
+      <workItem from="1565636237348" duration="527000" />
+      <workItem from="1565642111455" duration="7901000" />
+      <workItem from="1565963017999" duration="485000" />
+      <workItem from="1567110618728" duration="1336000" />
+      <workItem from="1567710426169" duration="22000" />
+      <workItem from="1567775930465" duration="688000" />
+      <workItem from="1567785198879" duration="1175000" />
+      <workItem from="1569424944197" duration="709000" />
+      <workItem from="1570368943278" duration="3998000" />
+      <workItem from="1570394814715" duration="407000" />
+      <workItem from="1570460508011" duration="4352000" />
+      <workItem from="1570623098029" duration="600000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/rip/skyland/soup/kit/impl/ArcherKit.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/rip/skyland/practice/kits/SpeedKit.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/rip/skyland/soup/commands/StyleCommand.java</url>
+          <line>108</line>
+          <properties class="rip.skyland.soup.commands.StyleCommand" method="getButton">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

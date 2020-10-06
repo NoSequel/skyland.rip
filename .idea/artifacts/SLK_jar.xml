@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SLK:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SLK_jar</output-path>
+    <root id="archive" name="SLK.jar">
+      <element id="module-output" name="SLK" />
+    </root>
+  </artifact>
+</component>

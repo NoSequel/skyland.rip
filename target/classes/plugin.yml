@@ -1,0 +1,6 @@
+name: Skylands
+main: rip.skyland.soup.SoupPlugin
+author: NV6
+version: 1.0.0
+depend: [Bridge]
+description: "Light weight Soup plugin made for SkylandRIP"

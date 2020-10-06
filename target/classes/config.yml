@@ -1,0 +1,10 @@
+MONGO:
+  HOST: 127.0.0.1
+  PORT: 27017
+  DATABASE: "core"
+  MONGO_DATABASE: "soup"
+  AUTH:
+    PASSWORD: ""
+    USER: ""
+CREDITS:
+  KILL_INCREGMENT: 5

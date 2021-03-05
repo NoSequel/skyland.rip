@@ -5,6 +5,43 @@ import org.bukkit.craftbukkit.v1_7_R4.entity.CraftPlayer;
 import org.bukkit.entity.Player;
 
 public class GameManager {
+    
+    
+    
+    // HORSSS
+    
+    
+        // HORSSS
+        // HORSSS
+    
+        // HORSSS
+    
+        // HORSSS
+        // HORSSS
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        // HORSSS
+        // HORSSS
+        // HORSSS
+    
 
     public void hidePlayer(Player player, Player target) {
         PacketPlayOutPlayerInfo packet = PacketPlayOutPlayerInfo.removePlayer(((CraftPlayer) player).getHandle());
